@@ -1,11 +1,15 @@
-# Para baixar as dependencias do projeto
+## Para baixar as dependencias do projeto
 
 npm install 
 ###### or
 yarn install
 
-# Para Iniciar o projeto
+## Para Iniciar o projeto
 
 npm start
 ###### or
 yarn start
+
+## Tecnologia usada
+
+JavaScript, ReactJS
