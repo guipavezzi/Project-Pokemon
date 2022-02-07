@@ -1,0 +1,33 @@
+.pokemon{
+    padding: 3rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .pokeInfo{
+        border: 1px solid black;
+        border-radius: 1rem;
+        padding: 2rem;
+    }
+      
+    img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 13rem;
+    }
+
+    h2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    p{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
+    }
+}

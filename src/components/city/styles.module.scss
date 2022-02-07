@@ -1,0 +1,29 @@
+.city{
+    padding: 2rem;
+    display: inline;
+
+    h1{
+        display: flex;
+        justify-content: center;
+    }
+    form{
+        display: flex;
+        justify-content: center;
+    }
+
+    input[type = "text"]{
+        height: 1.5rem;
+        border-radius: 1rem;
+        align-items: center;
+        text-align: center;
+        margin-right: 0.5rem;
+    }
+
+    input[type = "submit"]{
+        background: none;
+        text-align: center;
+        border: 0.125rem solid green;
+        border-radius: 1.5rem;
+        cursor: pointer;
+    }
+}
